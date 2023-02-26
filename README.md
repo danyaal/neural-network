@@ -11,7 +11,7 @@ I've also implemented two use cases for this neural network:
 
 This neural network is trained with the [MNIST database](http://yann.lecun.com/exdb/mnist/) and can be tested with a provided data set or with your own uploaded image! This neural network has adjustable parameters that can be tweaked to around 98% accuracy at recognizing numbers (and definitely could be optimized further)!
 
-![Example](numbers_assets/test_images/5.png)
+![Example](util/assets/5.png)
 
 The neural network would recognize this image as the number `5`
 
@@ -20,7 +20,7 @@ The neural network would recognize this image as the number `5`
 
 This neural network is trained with the [NIST database](https://www.nist.gov/srd/nist-special-database-19) and can be tested with your own uploaded image! This neural network has adjustable parameters that can be tweaked.
 
-![Example](alphabet_assets/test_images/p.png)
+![Example](util/assets/p.png)
 
 The neural network would recognize this image as a `P`
 
@@ -29,7 +29,7 @@ The neural network would recognize this image as a `P`
 
 This neural network is trained with my own custom made data set and can be tested with your own uploaded image! The facial recognition isn't always the most accurate because my training data is pretty limited, but it's still cool!
 
-![Example](face_assets/test_images/smile1.png)
+![Example](util/assets/smile1.png)
 
 The neural network would recognize this image as a `smile`
 
