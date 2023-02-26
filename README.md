@@ -22,7 +22,7 @@ This neural network is trained with the [NIST database](https://www.nist.gov/srd
 
 ![Example](util/readme_assets/p.png)
 
-The neural network would recognize this image as a `P`
+The neural network would recognize this image as the letter `P`
 
 ## Facial expression recognition
 `% python smile_recognition.py`
@@ -34,7 +34,7 @@ This neural network is trained with my own custom made data set and can be teste
 The neural network would recognize this image as a `smile`
 
 ## Usage
-If you want to run this yourself, you'll want to unzip `alphabet_readme_assets.zip` and `numbers_readme_assets.zip` before running the alphabet or number recognition code. Those files were too large for Github, so I had to compress them for 🙃.
+If you want to run this yourself, you'll want to unzip `alphabet_readme_assets.zip` and `numbers_readme_assets.zip` before running the alphabet or number recognition code. Those files were too large for Github, so I had to compress them 🙃.
 
 ## Learn more
 Check out [https://en.wikipedia.org/wiki/Artificial_neural_network](https://en.wikipedia.org/wiki/Artificial_neural_network) to learn more about them.
